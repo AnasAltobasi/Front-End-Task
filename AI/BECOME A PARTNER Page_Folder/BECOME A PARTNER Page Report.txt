@@ -1,0 +1,46 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: BECOME A PARTNER Page.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1920 px x 1621 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\Nisreen Ayman\QUARANTINE DAYS\Nisreen Ayman ( Backup 2 )\Xotox work\Aqaba\kit\Inside pages\UN\pertners inside pages-03_Folder\Links\shutterstock_252829150.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 32460K, 4000 by 2770 pixels
+Dimensions: 1996.022 by 1145.044 points 
+Resolution: 144.287 by 174.177 pixels per inch
